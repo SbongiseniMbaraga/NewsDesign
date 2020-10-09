@@ -1,0 +1,114 @@
+{
+  "project_info": {
+    "project_number": "288581271364",
+    "firebase_url": "https://epicgym-79cc3.firebaseio.com",
+    "project_id": "epicgym-79cc3",
+    "storage_bucket": "epicgym-79cc3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:288581271364:android:c8cdcba536b315ba84e111",
+        "android_client_info": {
+          "package_name": "com.sbo.epic_gym"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "288581271364-rovl60ahtunoud2995khce6ghngait1l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sbo.epic_gym",
+            "certificate_hash": "f5c742ec4369d9059c54365b97c857d0f23c8095"
+          }
+        },
+        {
+          "client_id": "288581271364-b4m37re3ehdpg6jjuhk6dnpc4at2jkuu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVpbg9Swtvvy5rUDMJT1iWpln1UYX8B8I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "288581271364-b4m37re3ehdpg6jjuhk6dnpc4at2jkuu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:288581271364:android:0ae4f3e3750c99fc84e111",
+        "android_client_info": {
+          "package_name": "com.sbo.epicgym2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "288581271364-05milv24kbvr21cio3ckgcrn07nj4vd4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sbo.epicgym2",
+            "certificate_hash": "f5c742ec4369d9059c54365b97c857d0f23c8095"
+          }
+        },
+        {
+          "client_id": "288581271364-b4m37re3ehdpg6jjuhk6dnpc4at2jkuu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVpbg9Swtvvy5rUDMJT1iWpln1UYX8B8I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "288581271364-b4m37re3ehdpg6jjuhk6dnpc4at2jkuu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:288581271364:android:d464358c001132df84e111",
+        "android_client_info": {
+          "package_name": "com.sbo.social"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "288581271364-b4m37re3ehdpg6jjuhk6dnpc4at2jkuu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVpbg9Swtvvy5rUDMJT1iWpln1UYX8B8I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "288581271364-b4m37re3ehdpg6jjuhk6dnpc4at2jkuu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
